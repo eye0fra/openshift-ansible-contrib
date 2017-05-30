@@ -48,7 +48,6 @@ function main {
   popd
 }
 
-
 case $SETTING in
 --teardown | --revert )
   shift
